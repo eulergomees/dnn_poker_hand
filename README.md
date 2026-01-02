@@ -1,1 +1,1 @@
-# dnn_poker_hand
+# Dense Neural Network for poker hand
